@@ -6,6 +6,5 @@ void main()
     scanf("%d %d",&a,&b);
     c=a+b;
     printf("SUM OF TWO NUMBERS %d",c);
-    return 0;
 }
     
