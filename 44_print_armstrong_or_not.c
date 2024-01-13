@@ -2,7 +2,6 @@
 // 1634 = 1^4+6^4+3^4+4^4 = 1634
 #include<stdio.h>
 #include<math.h>
-#include<conio.h>
 int main()
 {
     int n,a,c=0,x,loop=1,y,sum=0;
